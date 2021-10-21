@@ -4,3 +4,4 @@ hello world
 printf("hello world");
 console.log("hello world");
 cout<<"hello world";
+cout<<"easy to use";
