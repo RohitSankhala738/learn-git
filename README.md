@@ -5,3 +5,4 @@ printf("hello world");
 console.log("hello world");
 cout<<"hello world";
 cout<<" it is easy to use";
+cout<<"it is very good";
